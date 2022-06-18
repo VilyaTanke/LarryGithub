@@ -1,5 +1,5 @@
 # LarryPlotter
 
-Esta saga de libros cuentan la historia de un hacker excepcional.
+Esta saga de libros cuentan la historia de Larry Plotter, un hacker excepcional.
 
 **Angel Magallanes**
